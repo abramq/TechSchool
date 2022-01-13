@@ -1,1 +1,2 @@
 # TechSchool
+Just for learning.
